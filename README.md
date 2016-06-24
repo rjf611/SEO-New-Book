@@ -1,4 +1,9 @@
-# My Awesome Book
+# 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-把vvbvb把vb
+
+
+---
+
+我是13年6月份毕业的一名大学生，到现在16年工作也有三年了，一直做的SEO这份工作，做一个行业做了有三年了，也算是有自己的一些优化心得，因此，准备写出来和大家共享一下，在下才疏学浅，有些的不对的地方或者自己理解偏错的地方希望各位有才华的读者指正。
+
+我毕业那会（2013年），搜索引擎优化（Search Engine Optimization)还是非常热们的，真的不骗你们，我专业是通信工程，毕业后的第一份工作是SEO，想起来我也觉得诧异，那个时候，该找到工作的都有工作了，临近毕业的我也是十分的着急，觉得
