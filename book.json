@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "betterchinese",
+        "yahei",
+        "search-pro",
+        "hints"
+    ],
+    "pluginsConfig": {}
+}
